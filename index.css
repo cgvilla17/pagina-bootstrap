@@ -1,0 +1,47 @@
+img{
+    width: 120px;
+    background-color:  black;
+}
+#menu a{
+font-size: 18px;
+font-weight: bold;
+color: black;
+
+}
+h1{
+    background-color: black;
+    color: rgb(238, 114, 13);
+    display: flex;
+    justify-content: center;
+    font-family: 'Dragon Ball', sans-serif;
+    font-family:fuente dragon ball;
+    font-size: 50px;
+    font-weight: bold;
+}
+#carouselExampleInterval{  
+   width:auto;
+justify-content: space-around;
+}
+@font-face{
+    font-family:fuente dragon ball;
+    src: url(C:/Users/Christian/Desktop/Prueba/fuenteSaiyan/Saiyan-Sans);
+}
+.personajes1{
+    display: flex;
+    justify-content: space-around;
+}
+#parrafo1{
+    font-family:fuente dragon ball;
+    font-size: 20px;
+    background-color: rgb(8, 8, 8);
+    color: rgb(238, 114, 13);
+    font-weight: bold;
+}
+
+#carouselExampleInterval{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: black;
+}
