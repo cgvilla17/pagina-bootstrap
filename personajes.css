@@ -30,6 +30,7 @@ justify-content: space-around;
 .personajes1{
     display: flex;
     justify-content: space-around;
+   
 }
 #parrafo1{
     font-family:fuente dragon ball;
@@ -46,4 +47,7 @@ justify-content: space-around;
 body{
     background-color: black;
 }
-
+.ListaPersonajes{
+    font-weight: bold;
+    font-size: 1rem;
+}
